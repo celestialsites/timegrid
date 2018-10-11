@@ -1,3 +1,5 @@
+> :warning: **IMPORTANT WARNING** :warning: This project will become unsupported by 01/01/2018. If you require further information, please contact the author.
+
 <a href="http://www.timegrid.io/">
     <img src="http://i.imgur.com/pUUoU6H.png" alt="timegrid.io" title="timegrid.io" align="right" />
 </a>
@@ -10,8 +12,8 @@ timegrid
 [![Code Climate](https://codeclimate.com/github/timegridio/timegrid/badges/gpa.svg)](https://codeclimate.com/github/timegridio/timegrid)
 [![Test Coverage](https://codeclimate.com/github/timegridio/timegrid/badges/coverage.svg)](https://codeclimate.com/github/timegridio/timegrid/coverage)
 [![Current Beta](https://img.shields.io/badge/dev--beta-5.0-yellow.svg?style=flat-square)](http://demo.timegrid.io/)
-[![Codewake](https://www.codewake.com/badges/ask_question_flat_square.svg)](https://www.codewake.com/p/timegrid)
 [![License](https://img.shields.io/:license-AGPL--3.0-blue.svg?style=flat-square)](http://www.gnu.org/licenses/agpl-3.0.txt)
+[![Open Source Helpers](https://www.codetriage.com/timegridio/timegrid/badges/users.svg)](https://www.codetriage.com/timegridio/timegrid)
 
 > **Timegrid** helps contractors and customers to find the perfect meeting time through *online appointments*.
 
@@ -52,6 +54,8 @@ timegrid
 
 ## Installing
 
+> :warning: **IMPORTANT WARNING** :warning: This project will become unsupported by 01/01/2018. If you require further information, please contact the author.
+
 Read the [INSTALLING](INSTALLING.md) section.
 
 Get started in 10 min with a [Docker image](https://github.com/timegridio/dockerfiles) for development environment.
@@ -63,9 +67,11 @@ Current supported user interface languages are:
   * American English (`en_US`)
   * Spanish (`es_ES` and `es_AR`)
   * Italian (`it_IT`)
+  * French (`fr_FR`)
+  * Russian (`ru_RU`)
+  * Armenian (`am_HY`)
 
-Future targeted translations might be French and Arabic, however, feel free to contribute with your preferred 
-translation!
+Feel free to contribute with your preferred translation!
 
 ## Appointment Library
 
@@ -83,7 +89,7 @@ Contributions are welcome. **Please read the following notes.**
 
 ### Author Notes
 
-**IMPORTANT NOTE**
+:warning: **IMPORTANT NOTE**
 
 Dear tiny but human-qualified community,
 
@@ -115,6 +121,8 @@ Thanks for your patience and thanks for being around.
   * [Draganrakovic](https://github.com/draganrakovic) for contributions
   * [Nerxo](https://github.com/Nerxo) for contributions
   * [Sahil Sharma](https://github.com/sahilsharma011) for contributions and smart suggestions
+  * [Mohammed Hicham](https://github.com/himan72) for contribution on French translation
+  * Ani Shahbazyan for contribution on Russian and Armenian translations
   * Using modified icon originally made by [SimpleIcon](http://www.flaticon.com/authors/simpleicon) from www.flaticon.com
 
 ## License
