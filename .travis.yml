@@ -4,6 +4,9 @@ php:
   - "5.6"
   - "7.1"
 
+services:
+  - mysql
+
 before_install:
   - sudo apt-get update
 
@@ -18,7 +21,7 @@ before_script:
   - php artisan config:clear
   - php artisan migrate
   - php artisan db:seed
-  - php artisan geoip:update
+#  - php artisan geoip:update
   - php artisan config:cache
 
 script:
